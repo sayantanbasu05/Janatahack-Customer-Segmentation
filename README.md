@@ -3,7 +3,7 @@ AV organised weekend hackathon on customer segmentation.
 
 Team: Last but not the least
 
-Team member : [Atif Hassan](https://www.linkedin.com/in/atif-hassan-1a8a45127/)
+Team member : [Atif Hassan](https://www.linkedin.com/in/atif-hassan-1a8a45127/) and Sayantan Basu
 
 Public Leaderboard : 5
 
