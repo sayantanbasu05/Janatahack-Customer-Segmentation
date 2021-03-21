@@ -6,6 +6,8 @@ Team: Last but not the least
 Team member : [Atif Hassan](https://www.linkedin.com/in/atif-hassan-1a8a45127/) and Sayantan Basu
 
 Public Leaderboard : 5
+# Dataset format
+![dataset](dataset_format.JPG)
 
 One of the main tricks to this hackathon was to identify the common IDs in Train.csv and Test.csv. And simply by copying the target variables( with common IDs) from Train.csv to Test.csv gave a jump from 0.54 to 0.91 in the leaderboard.
 
